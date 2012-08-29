@@ -1,4 +1,23 @@
 muncher
 =======
 
-Search for email addresses in files
+	muncher - search for email addresses in files
+	by:
+			Max Clark
+			max@clarksys.com
+			http://www.clarksys.com
+
+
+Required Modules
+----------------
+
+ - Email::Find::Loose
+
+Usage
+-----
+
+License
+-------
+
+mrtgsql is released under the GPL license. See the file COPYING included in 
+the distribution for details.
