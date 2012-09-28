@@ -2,7 +2,7 @@
 
 # unique.pl: find and display unique lines
 #
-#    Copyright (C) 2012 Max Clark and Creative Thought, Inc.
+#    Copyright (C) 2012 Max Clark
 #
 #    This program is free software; you can redistribute it and/or modify
 #    it under the terms of the GNU General Public License as published by
